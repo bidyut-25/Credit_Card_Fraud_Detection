@@ -72,4 +72,4 @@ print("Prediction:", "Fraudulent" if pred[0]==1 else "Legitimate")
 
 ---
 👨‍💻 Developed by [Bidyut Supakar]  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bidyut-supakar-748a43310/)
