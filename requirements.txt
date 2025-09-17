@@ -1,6 +1,8 @@
 flask
-scikit-learn
-imbalanced-learn
+gunicorn
 pandas
 numpy
+scikit-learn
+imbalanced-learn
 joblib
+
